@@ -80,6 +80,6 @@ For future project, I will focus on utilizing react and tailwind
 
 ## Acknowledgments
 
-- [Code A Program - Tailwind CSS Dark/Light/System Base Change Theme With Local Storage | React js dark mode] - (https://www.youtube.com/watch?v=NMTq5HIxMa8&t=427s)
-- [Joseph Lynn - How to build a React CRUD todo app (add localstorage)] - (https://dev.to/joelynn/how-to-build-a-react-crud-todo-app-localstorage-4pjh)
-- [Pranjani Verma - Drag and Drop in React without using any External Library] - (https://aurigait.com/blog/drag-and-drop-in-react-without-using-any-external-library/)
+- [Code A Program - Tailwind CSS Dark/Light/System Base Change Theme With Local Storage | React js dark mode](https://www.youtube.com/watch?v=NMTq5HIxMa8&t=427s)
+- [Joseph Lynn - How to build a React CRUD todo app (add localstorage)](https://dev.to/joelynn/how-to-build-a-react-crud-todo-app-localstorage-4pjh)
+- [Pranjani Verma - Drag and Drop in React without using any External Library](https://aurigait.com/blog/drag-and-drop-in-react-without-using-any-external-library/)
