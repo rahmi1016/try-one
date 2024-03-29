@@ -1,0 +1,21 @@
+<!-- <svg height="150" width="400" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="grad2" x1="0%" x2="100%" y1="0%" y2="0%">
+      <stop offset="0%" stop-color= "#57DDFF" />
+      <stop offset="100%" stop-color="#C058F3" />
+    </linearGradient>
+  </defs>
+    <circle cx="11" cy="11" r="11"  fill="url(#grad2)" />
+    <circle cx="11" cy="11" r="9" fill="#fafafa" />
+
+</svg> -->
+
+<svg width="22" height="22" xmlns="http://www.w3.org/2000/svg">
+<defs>
+    <linearGradient id="grad2" x1="0%" x2="100%" y1="0%" y2="0%">
+      <stop offset="0%" stop-color= "#57DDFF" />
+      <stop offset="100%" stop-color="#C058F3" />
+    </linearGradient>
+  </defs>
+  <circle cx="11" cy="11" r="10" stroke="url(#grad2)"  stroke-width="1" fill="none" />
+</svg>
