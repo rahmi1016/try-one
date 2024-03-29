@@ -41,8 +41,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/rahmi1016/try-one)
-- Live Site URL: [Add live site URL here](https://rahmi1016.github.io/try-one/)
+- Solution URL: [Solution URL](https://github.com/rahmi1016/try-one)
+- Live Site URL: [Live Site URL](https://rahmi1016.github.io/try-one/)
 
 ## My process
 
@@ -65,14 +65,14 @@ For future project, I will focus on utilizing react and tailwind
 
 ### Useful resources
 
-- [Tailwind CSS Dark/Light/System Base Change Theme With Local Storage | React js dark mode] - (https://www.youtube.com/watch?v=NMTq5HIxMa8&t=427s)
-- [Building a Todo List App with ReactJS: A Step-by-Step Guide]-(medium.com/@worachote/building-a-todo-list-app-with-reactjs-a-step-by-step-guide)
-- [How to Use localStorage with React Hooks to Set and Get Items]-(https://www.freecodecamp.org/news/how-to-use-localstorage-with-react-hooks-to-set-and-get-items/)
-- [How to build a React CRUD todo app (add localstorage)] - (https://dev.to/joelynn/how-to-build-a-react-crud-todo-app-localstorage-4pjh)
-- [3 ways for toggle a class in React] - (https://devdojo.com/krissanawat101/3-ways-for-toggle-a-class-in-react)
-- [How can I toggle between 3 components in ReactJS] - (https://stackoverflow.com/questions/66343243/how-can-i-toggle-between-3-components-in-reactjs)
-- [Drag and Drop in React without using any External Library] - (https://aurigait.com/blog/drag-and-drop-in-react-without-using-any-external-library/)
-- [Deploying Vite Deploying Vite App to GitHub Pages] - (https://medium.com/@aishwaryaparab1/deploying-vite-deploying-vite-app-to-github-pages-166fff40ffd3)
+- [Tailwind CSS Dark/Light/System Base Change Theme With Local Storage | React js dark mode](https://www.youtube.com/watch?v=NMTq5HIxMa8&t=427s)
+- [Building a Todo List App with ReactJS: A Step-by-Step Guide](medium.com/@worachote/building-a-todo-list-app-with-reactjs-a-step-by-step-guide)
+- [How to Use localStorage with React Hooks to Set and Get Items](https://www.freecodecamp.org/news/how-to-use-localstorage-with-react-hooks-to-set-and-get-items/)
+- [How to build a React CRUD todo app (add localstorage)](https://dev.to/joelynn/how-to-build-a-react-crud-todo-app-localstorage-4pjh)
+- [3 ways for toggle a class in React](https://devdojo.com/krissanawat101/3-ways-for-toggle-a-class-in-react)
+- [How can I toggle between 3 components in ReactJS](https://stackoverflow.com/questions/66343243/how-can-i-toggle-between-3-components-in-reactjs)
+- [Drag and Drop in React without using any External Library](https://aurigait.com/blog/drag-and-drop-in-react-without-using-any-external-library/)
+- [Deploying Vite Deploying Vite App to GitHub Pages](https://medium.com/@aishwaryaparab1/deploying-vite-deploying-vite-app-to-github-pages-166fff40ffd3)
 
 ## Author
 
