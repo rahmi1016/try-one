@@ -41,8 +41,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Add solution URL here](https://github.com/rahmi1016/try-one)
+- Live Site URL: [Add live site URL here](https://rahmi1016.github.io/try-one/)
 
 ## My process
 
@@ -72,6 +72,7 @@ For future project, I will focus on utilizing react and tailwind
 - [3 ways for toggle a class in React] - (https://devdojo.com/krissanawat101/3-ways-for-toggle-a-class-in-react)
 - [How can I toggle between 3 components in ReactJS] - (https://stackoverflow.com/questions/66343243/how-can-i-toggle-between-3-components-in-reactjs)
 - [Drag and Drop in React without using any External Library] - (https://aurigait.com/blog/drag-and-drop-in-react-without-using-any-external-library/)
+- [Deploying Vite Deploying Vite App to GitHub Pages] - (https://medium.com/@aishwaryaparab1/deploying-vite-deploying-vite-app-to-github-pages-166fff40ffd3)
 
 ## Author
 
